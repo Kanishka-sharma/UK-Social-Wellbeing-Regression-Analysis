@@ -8,7 +8,7 @@
 This project applies **statistical modeling and visual analytics** to understand which social factors most influence residents’ satisfaction across regions of **England**.  
 Using **multiple linear regression (MLR)** and region-level analysis, the study quantifies how perceptions of **influence**, **community cohesion**, **belonging**, and **drug use** shape overall satisfaction.
 
-The work demonstrates end-to-end data analysis — from preprocessing and descriptive exploration to model evaluation and interpretation - presented in a clear, reproducible R workflow.
+The work demonstrates end-to-end data analysis - from preprocessing and descriptive exploration to model evaluation and interpretation - presented in a clear, reproducible R workflow.
 
 ---
 
