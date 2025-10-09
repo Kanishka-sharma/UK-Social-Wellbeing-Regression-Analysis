@@ -49,11 +49,11 @@ how well people from different backgrounds get along |
 Fitted a **multiple linear regression** model:
 
 \[
-Overallpoint \sim Influence + GetOnWell + Belong + DrugUse
+Overallpoint ~ Influence + GetOnWell + Belong + DrugUse
 \]
 
 Diagnostics included:
-- Normality of residuals (Q–Q plot)  
+- Normality of residuals (Q-Q plot)  
 - Homoscedasticity (Residual vs Fitted)  
 - Multicollinearity (VIF)  
 - Model fit metrics (R², Adjusted R², F-statistic)
